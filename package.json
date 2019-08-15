@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "json-server cities.json"
+  },
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
